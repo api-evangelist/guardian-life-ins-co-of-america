@@ -1,0 +1,7 @@
+aid: guardian-life-ins-co-of-america
+url: https://raw.githubusercontent.com/api-evangelist/guardian-life-ins-co-of-america/refs/heads/main/apis.yml
+modified: '2026-03-24'
+apis: []
+common:
+  - type: Website
+    url: https://www.guardian-life-ins-co-of-america.com
